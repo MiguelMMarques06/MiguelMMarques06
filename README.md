@@ -1,5 +1,5 @@
 # Miguel Macedo Marques
-## Sobre mim:
+## 💡 Sobre mim:
 Tenho 19 anos, apaixonado, curioso e interessado em tecnologia e suas ferramentas. Tive meu primeiro contato com programação no curso técnico de Programação de Jogos Digitais Integrado ao Ensino Médio na Etec Aristóteles Ferreira. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec Baixada Santista e procuro por oportunidade de ingressar no mercado de trabalho para contribuir, evoluir e aprender.
 ## 🛠 Habilidades
 ### 💻 Linguagens de Programação
