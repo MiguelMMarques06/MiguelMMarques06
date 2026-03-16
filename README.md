@@ -1,33 +1,46 @@
 # Miguel Macedo Marques
-## 💡 Sobre mim:
-Tenho 19 anos, apaixonado, curioso e interessado em tecnologia e suas ferramentas. Tive meu primeiro contato com programação no curso técnico de Programação de Jogos Digitais Integrado ao Ensino Médio na Etec Aristóteles Ferreira. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec Baixada Santista e procuro por oportunidade de ingressar no mercado de trabalho para contribuir, evoluir e aprender.
-## 🛠 Habilidades
+
+Software Engineering Intern @ Nubank · Técnico em Programação de Jogos Digitais · Cursando Análise e Desenvolvimento de Sistemas
+
+---
+
+## 💡 Sobre mim
+
+Tenho 20 anos e sou apaixonado por tecnologia, sempre curioso sobre como as coisas funcionam por baixo dos panos.  
+Meu primeiro contato com programação foi no curso técnico de **Programação de Jogos Digitais** na Etec Aristóteles Ferreira.  
+
+Atualmente sou **Estagiário de Software Engineering na Nubank**, cursando **Análise e Desenvolvimento de Sistemas** na Fatec Baixada Santista, focado em aprender, evoluir e contribuir construindo soluções em escala.
+
+---
+
+## 🛠️ Habilidades
+
 ### 💻 Linguagens de Programação
 
-C - Intermediário
+- C — Intermediário  
+- C# — Intermediário  
+- Python — Intermediário  
+- C++ — Básico  
+- JavaScript — Básico  
+- Clojure — Básico  
 
-C# - Intermediário
+### 🔧 Ferramentas e Softwares
 
-Python - Intermediário
+- **IDE/Editor:** Visual Studio Code, IntelliJ, Cursor  
+- **Controle de versão:** Git, GitHub  
+- **IA & Dev Tools:** Google AI Studio, Gemini, Claude, Perplexity AI  
 
-C++ - Básico
+### 📖 Conhecimentos
 
-Javascript - Básico
+- Metodologias ágeis (Scrum, Kanban)  
+- Conceitos de Cloud Computing  
+- Boas práticas de versionamento e colaboração em equipe  
 
-### 🔧 Ferramentas e softwares
+---
 
-Visual Studio Code, Visual Studio, Git, Git Hub, Google AI Studio, Gemini, ChatGPT, CodeBlocks, Adobe Photoshop, Autodesk Maya.
+## 🌎 Idiomas
 
-### 📖 Conhecimentos:
-
-Conhecimentos teóricos sobre metodologias ageís, SCRUM, Cloud Computing.
-
-### 🌎 Idiomas:
-
-Português - Nativo
-
-Inglês - Fluente
-
-Espanhol - Básico
-
-Italiano - Básico 
+- 🇧🇷 Português — Nativo  
+- 🇺🇸 Inglês — Fluente
+- 🇪🇸 Espanhol — Básico  
+- 🇮🇹 Italiano — Básico
