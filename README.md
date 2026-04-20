@@ -1,46 +1,41 @@
 # Miguel Macedo Marques
 
-Software Engineering Intern @ Nubank · Técnico em Programação de Jogos Digitais · Cursando Análise e Desenvolvimento de Sistemas
+Software Engineering Intern @ Nubank · Técnico em Programação de Jogos Digitais · Cursando ADS na Fatec
 
 ---
 
-## 💡 Sobre mim
+## Sobre mim
 
-Tenho 20 anos e sou apaixonado por tecnologia, sempre curioso sobre como as coisas funcionam por baixo dos panos.  
-Meu primeiro contato com programação foi no curso técnico de **Programação de Jogos Digitais** na Etec Aristóteles Ferreira.  
+Tenho 20 anos e entrei na programação pelo curso técnico de **Jogos Digitais** na Etec Aristóteles Ferreira — foi por lá que o negócio clicou de vez. Hoje estou estagiando em **Software Engineering na Nubank** e cursando **Análise e Desenvolvimento de Sistemas** na Fatec Baixada Santista.
 
-Atualmente sou **Estagiário de Software Engineering na Nubank**, cursando **Análise e Desenvolvimento de Sistemas** na Fatec Baixada Santista, focado em aprender, evoluir e contribuir construindo soluções em escala.
-
----
-
-## 🛠️ Habilidades
-
-### 💻 Linguagens de Programação
-
-- C — Intermediário  
-- C# — Intermediário  
-- Python — Intermediário  
-- C++ — Básico  
-- JavaScript — Básico  
-- Clojure — Básico  
-
-### 🔧 Ferramentas e Softwares
-
-- **IDE/Editor:** Visual Studio Code, IntelliJ, Cursor  
-- **Controle de versão:** Git, GitHub  
-- **IA & Dev Tools:** Google AI Studio, Gemini, Claude, Perplexity AI  
-
-### 📖 Conhecimentos
-
-- Metodologias ágeis (Scrum, Kanban)  
-- Conceitos de Cloud Computing  
-- Boas práticas de versionamento e colaboração em equipe  
+Ainda estou no começo, mas gosto de entender como as coisas funcionam de verdade, não só fazer funcionar.
 
 ---
 
-## 🌎 Idiomas
+## Habilidades
 
-- 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Fluente
-- 🇪🇸 Espanhol — Básico  
-- 🇮🇹 Italiano — Básico
+**Linguagens**
+
+- C · C# · Python — Intermediário
+- C++ · JavaScript · Clojure — Básico
+
+**Ferramentas**
+
+- VS Code, IntelliJ, Cursor
+- Git, GitHub
+- Google AI Studio, Claude, Perplexity AI
+
+**Outros**
+
+- Scrum, Kanban
+- Conceitos de Cloud Computing
+- Versionamento e trabalho em equipe
+
+---
+
+## Idiomas
+
+- Português — Nativo
+- Inglês — Fluente
+- Espanhol — Básico
+- Italiano — Básico
